@@ -1,12 +1,11 @@
-<img src="https://raw.githubusercontent.com/TempestAethel/TempestAethel/main/TA.png" alt="TA Logo" width="50" style="vertical-align: middle;"> My GitHub  
+# <img src="https://raw.githubusercontent.com/TempestAethel/TempestAethel/main/TA.png" alt="TA Logo" width="50" style="vertical-align: middle;"> My GitHub
 
 Welcome to my GitHub profile! I'm a coder based in Bengaluru, Karnataka, India. This profile is primarily focused on academic-related projects and experiments.  
 
 ## About Me  
 I have experience with programming languages such as C, C++, and Python, and I also work with HTML and CSS occasionally. Most of the repositories here are part of my academic learning journey, showcasing basic implementations and ideas.  
 
-## GitHub Stats
-## GitHub Stats
+## GitHub Stats  
 <div align="center">
   <a href="https://github.com/TempestAethel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TempestAethel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -22,7 +21,7 @@ Together, "TempestAethel" can be interpreted as "noble storm," suggesting a powe
 
 ---
 
-### Anime Interests
+### Anime Interests  
 You can check out my anime interests on my [Anime-Planet](https://www.anime-planet.com/users/TempestAethel) account. My manga section is not updated, but I read them too.
 
 ---
@@ -30,8 +29,9 @@ You can check out my anime interests on my [Anime-Planet](https://www.anime-plan
 ## Online Main Page  
 For an overview of my repositories, visit my [online main page](https://tempestaethel.github.io/TempestAethel/).
 
-
 ---
+
 ## Note:  
 This profile is a work-in-progress and mainly serves as a platform for academic purposes. Most of the code here is basic and experimental. Feel free to use or improve upon it, but please note that it may not be optimized for professional use.
 
+> This is just a secondary account for the user **[RUNAROK](https://github.com/Runarok)**.
