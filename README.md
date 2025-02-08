@@ -27,7 +27,7 @@ You can check out my anime interests on my [Anime-Planet](https://www.anime-plan
 ---
 
 ## Online Main Page  
-For an overview of my repositories, visit my [online main page](https://tempestaethel.github.io/TempestAethel/).
+For an overview of my repositories, visit my [online main page](https://tempestaethel.github.io).
 
 ---
 
