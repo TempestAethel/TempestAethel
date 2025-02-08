@@ -34,4 +34,6 @@ For an overview of my repositories, visit my [online main page](https://tempesta
 ## Note:  
 This profile is a work-in-progress and mainly serves as a platform for academic purposes. Most of the code here is basic and experimental. Feel free to use or improve upon it, but please note that it may not be optimized for professional use.
 
-> This is just a secondary account for the user **[RUNAROK](https://github.com/Runarok)**.
+> This is account is just a secondary account for the user **[RUNAROK](https://github.com/Runarok)**.  
+> My **primary account** is primarily focused on coding, passion projects, and related topics.  
+> This account, however, is dedicated to timepass, non-code interests, hobbies, and personal content.
